@@ -1,0 +1,62 @@
+/* Reset moderno */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.6;
+  color: #fff;
+  background-color: #080505cb;
+  scroll-behavior: smooth;
+}
+
+/* Enlaces */
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Listas */
+ul,
+ol {
+  list-style: none;
+  color: #fff;
+}
+
+/* Imágenes */
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+/* Tablas */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Formularios y botones */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+/* Cabeceras y párrafos */
+h1, h2, h3, h4, h5, h6, p {
+  font-weight: normal;
+  color: #fff;
+}

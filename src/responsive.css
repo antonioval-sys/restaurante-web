@@ -1,0 +1,285 @@
+@media (max-width: 767px) {
+/*nav*/
+  .nav-links {
+    display: none;
+    position: absolute;
+    inset-block-start: 60px;
+    inset-inline-start: 0;
+    inline-size: 100%;
+    background-color: #000000;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.3rem 0;
+    z-index: 1000;
+    font-size: 1.2rem;
+    gap:1rem;
+  }
+
+ .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links li {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.3s ease;
+  }
+
+  .nav-links.active li {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .nav-links li:nth-child(1) {transition-delay: 0.1s;}
+
+  .nav-links li:nth-child(2) {transition-delay: 0.2s;}
+
+  .nav-links li:nth-child(3) {transition-delay: 0.3s;}
+
+  .nav-links li:nth-child(4) {transition-delay: 0.4s;}
+
+  .superior {
+    align-items: center;
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+
+
+   /*Index*/
+
+ .menu-btn {
+    display: block;
+    gap: 1rem;
+  }
+
+   .dis, .des {
+    grid-template-columns: 1fr; /* una sola columna */
+  }
+.superior {
+  display: flex;
+  inline-size: 100%;
+  position: relative;
+  block-size: 30rem;
+  background-size: cover;
+  background-position: center;
+  padding-block-start: 3rem;
+  z-index: 0;
+}
+
+  .ce {
+    font-size: 2rem;
+    position: relative;
+    inset-inline-start: 0;
+    inset-block-start: 1rem;
+    margin: 1rem auto;
+    text-align: center;
+   
+  }
+
+  .ordena-ahora {
+    position: relative;
+    display: block;
+    inline-size: auto;
+    padding: 0.4rem 0.7rem;
+    inset-inline-start: 1rem;
+    inset-block-start: 7rem;
+    font-size: var(--font-size-botton);
+  border-radius: var(--borde-radio);
+  }
+
+  .logo {
+    font-size: 1.5rem;
+    block-size: auto;
+  }
+  
+  .trattoria{
+  padding: 2rem 1rem;
+}
+
+.trattoria img, .img-filete img{
+  padding-block-start: 1rem;
+  max-inline-size: 100%;  /* que no se pase del ancho de la columna */
+  block-size: auto;     /* mantener proporción */
+  border-radius: 3rem;
+  display: block;  
+  margin: 0 auto;
+}
+
+/*nosotros*/
+ .primero, .segundo, .tercero {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+
+ .primero h2, .segundo h2, .tercero h2 {
+    font-size: var(--font-size-resposive-h2);
+    padding: var(--espacio-xs);
+  }
+
+  .primero p, .segundo p, .tercero p {
+    font-size: var(--font-size-resposive-p);
+    padding: var(--espacio-xs);
+  }
+
+  .primero img, .segundo img, .tercero img {
+    margin: 0 auto;
+  }
+  /*contacto*/
+.contacto{
+  grid-template-columns: 1fr;
+}
+.contacto-info h1{
+  font-size: var(--font-size-resposive-h2);
+  padding: 0.5rem 1rem;
+}
+
+.contacto-info p{
+  font-size: var(--font-size-resposive-p);
+  padding: 0rem 2rem;
+  position: relative;
+  color: #fff;
+}
+
+.contacto iframe{
+  inline-size: 100%;
+    max-inline-size: 23rem;
+    block-size: 15rem;
+    border: none;
+}
+.contacto form {
+inline-size: 100%;
+    max-inline-size: 18rem;
+    padding: 1rem 0.5rem;
+    font-size: 1rem;
+}
+
+.contacto button {
+ inline-size: 80%;
+    max-inline-size: 8rem;
+    font-size: 1rem;
+    align-self: center;
+}
+/*servicio*/
+.serviciop{
+  display: grid;
+    grid-template-columns: 1fr ;      /* una sola columna */    
+  position: relative;
+  inline-size: 90%; 
+  max-inline-size: 400px;
+  margin: 0 auto;
+  gap: 2rem;
+}
+.servicio-info h1{
+  font-size: var( --font-size-reponsive-h1);
+  padding: 1rem 1rem;
+  text-align: center;
+}
+.servicio-info p{
+  font-size: var( --font-size-responsive-p);
+  padding: 0rem 1rem;
+  position: relative;
+  color: #fff;
+  text-align: center;
+}
+
+
+.serviciop img{
+  padding: 1rem;
+  border-radius: var(--border-radio-responsive);
+  max-inline-size: 100%;  /* que no se pase del ancho de la columna */
+  block-size: auto;     /* mantener proporción */
+  display: block;
+  margin: 0 auto;
+}
+
+.cita h2{
+  font-size: var( --font-size-resposive-h2);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.cita h3{
+  font-size: var( --font-size-resposive-h3);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.cita p{
+  font-size: var( --font-size-responsive-p);
+  padding: 0rem 1rem;
+
+  position: relative;
+  text-align: center;
+}
+.sala h2{
+  font-size: var( --font-size-resposive-h2);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.sala h3{
+  font-size: var( --font-size-resposive-h3);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.sala p{
+  font-size: var( --font-size-responsive-p);
+  padding: 0rem 1rem;
+  position: relative;
+  text-align: center;
+}
+.ambiente h2{
+  font-size: var( --font-size-resposive-h2);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.ambiente h3{
+  font-size: var( --font-size-resposive-h3);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.ambiente p{
+  font-size: var( --font-size-responsive-p);
+  padding: 0rem 1rem;
+  position: relative;
+  text-align: center;
+}
+.evento h2{
+  font-size: var( --font-size-resposive-h2);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.evento h3{
+  font-size: var( --font-size-resposive-h3);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+.evento p{
+  font-size: var( --font-size-responsive-p);
+  padding: 0rem 1rem;
+  position: relative;
+  text-align: center;
+}
+
+
+  
+  /*footer*/
+.footer-content{
+ grid-template-columns:  1fr;
+ text-align: center;
+}
+footer{
+  font-size: 1rem;
+}
+.footer-derechos p{
+  font-size: var(--font-size-resposive-p);
+padding-block-start: 1rem;
+margin: 0;
+}
+.footer-ul{
+  display: flex;
+  list-style: none;
+  padding-block-end: 1rem;
+  margin : 0;
+  gap: 1rem;
+  justify-content: center;
+}
+
+}

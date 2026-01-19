@@ -1,0 +1,24 @@
+.ordena-ahora {
+  display: flex;
+  position: absolute;
+  inset-inline-end: 4rem;
+  inset-block-end: 7rem;
+  background: var(--color-primario);
+  color: #fff;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  border-radius: var(--borde-radio);
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.ordena-ahora button {
+  transition: all 0.3s ease;
+}
+.ordena-ahora:hover {
+  opacity: 0.8;
+  transform: translateY(-0.3rem);
+  box-shadow: var(--sombra-suave);
+  background: var(--color-hover);
+}
