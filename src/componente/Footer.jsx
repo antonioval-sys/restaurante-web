@@ -16,12 +16,12 @@ return(
       </div>
       <div>
         <ul className="footer-img">
-          <li> <a href="https://www.instagram.com/thetrattoria/"><img src="/imagenes/instagram.png" alt="Intagram"/></a>
+          <li> <a href="https://www.instagram.com/thetrattoria/"><img src="imagenes/instagram.png" alt="Intagram"/></a>
           </li>
-          <li> <a href="https://www.facebook.com/trattoriainitalia"><img src="/imagenes/facebook.png" alt="Facebook"/></a>
+          <li> <a href="https://www.facebook.com/trattoriainitalia"><img src="imagenes/facebook.png" alt="Facebook"/></a>
           </li>
           <li> <a href="https://www.youtube.com/watch?v=se5LvWxh4hI&list=RDse5LvWxh4hI&start_radio=1"><img
-                src="/imagenes/youtube.png" alt="Youtube Songs"/></a></li>
+                src="imagenes/youtube.png" alt="Youtube Songs"/></a></li>
         </ul>
       </div>
     </div>

@@ -17,7 +17,7 @@ function Servicios() {
         <p>Visítenos y descubra cómo nuestro compromiso con la excelencia en el servicio puede transformar su comida en
           una experiencia verdaderamente excepcional.</p>
       </div>
-      <img src="/imagenes/servicio.jpg" alt="Servicio"/>
+      <img src="imagenes/servicio.jpg" alt="Servicio"/>
 
       <div className="cita">
         <h2>Cita romántica</h2>
@@ -25,7 +25,7 @@ function Servicios() {
         <p>Vive una velada inolvidable en nuestra mesa VIP con vista a la terraza, ideal para una ocasión especial.</p>
         <p>Para reservar una mesa, llámanos al 667-05-**-** o envíanos un correo electrónico a <a href="mailto:reservas@trattoriamoderna.com">reservas@trattoriamoderna.com</a>.</p>
       </div>
-      <img src="/imagenes/cita.jpg" alt="Cita romántica"/>
+      <img src="imagenes/cita.jpg" alt="Cita romántica"/>
 
       <div className="sala">
         <h2>Sala de eventos</h2>
@@ -33,7 +33,7 @@ function Servicios() {
         <p>Nuestra sala de eventos es el lugar perfecto para celebrar bodas, cumpleaños y reuniones corporativas. Con
           capacidad para hasta 50 personas, ofrecemos un ambiente elegante y acogedor.</p>
       </div>
-      <img src="/imagenes/sala.jpg" alt="Sala de eventos"/>
+      <img src="imagenes/sala.jpg" alt="Sala de eventos"/>
       <div className="ambiente">
         <h2>Ambiente acogedor</h2>
         <h3>Disfruta de nuestro espacio</h3>
@@ -43,7 +43,7 @@ function Servicios() {
         <p>Ya sea que elija sentarse en nuestra terraza al aire libre o en el interior junto a la chimenea, encontrará
           un entorno perfecto para cualquier ocasión, desde una cena íntima hasta una reunión familiar.</p>
       </div>
-      <img src="/imagenes/ambiente.jpg" alt="Ambiente acogedor"/>
+      <img src="imagenes/ambiente.jpg" alt="Ambiente acogedor"/>
 
       <div className="evento">
         <h2>Eventos especiales</h2>
@@ -54,7 +54,7 @@ function Servicios() {
           nuestro equipo está aquí para ayudarle a planificar y ejecutar un evento inolvidable.</p>
         <p>Ofrecemos menús personalizados, decoración temática y un servicio excepcional para garantizar que su evento sea único y memorable. Contáctenos para discutir sus ideas y comenzar a planificar su próxima celebración con nosotros.</p>
       </div>  
-      <img src="/imagenes/evento.jpg" alt="Eventos especiales"/>
+      <img src="imagenes/evento.jpg" alt="Eventos especiales"/>
 
     </section>
  );

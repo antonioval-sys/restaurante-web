@@ -22,11 +22,11 @@ function Nosotros() {
           puros. Esa noche no solo cené, sino que descubrí que la comida era un lenguaje universal de amor y
           pertenencia. Regresé a casa, pero una parte de mi corazón se quedó en esa mesa, en ese callejón.</p>
           </div>
-            <img src="/imagenes/primero.png" alt="Primer imagen"/>
+            <img src="imagenes/primero.png" alt="Primer imagen"/>
       </div>
 
       <div className="segundo">
-          <img src="/imagenes/segunda.png" alt="Segunda imagen"/>
+          <img src="imagenes/segunda.png" alt="Segunda imagen"/>
         <div className="segunda-grid">
         <h2>La Decisión – El Puente Entre el Sueño y la Realidad</h2>
         <p>De vuelta en Culiacán, el recuerdo de Italia se convirtió en una obsesión deliciosa. Intentaba replicar esos
@@ -55,7 +55,7 @@ function Nosotros() {
           sino un hogar para quienes, como yo, buscan una conexión genuina en cada plato. Esta historia aún se está
           escribiendo, y nos emociona enormemente que, muy pronto, tú formes parte del siguiente capítulo.</p>
       </div>
-       <img src="/imagenes/tercera.png" alt="Tercer imagen"/>
+       <img src="imagenes/tercera.png" alt="Tercer imagen"/>
         </div>
       </div> 
     </section>
