@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './main.css'
 import { Link } from "react-router-dom";
 import Nav from "./componente/Navbar"
