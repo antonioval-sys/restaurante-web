@@ -10,7 +10,7 @@ import './main.css'
 
 function App() {
   return (
-    <Router basename="/restaurante-web">
+    <>
       <Nav />
 
       <Routes>
@@ -23,7 +23,7 @@ function App() {
       </Routes>
 
       <Foot />
-    </Router>
+    </>
   )
 }
 
