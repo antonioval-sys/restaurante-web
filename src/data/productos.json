@@ -5,28 +5,28 @@
     "name": "Bruschetta al pomodoro",
     "price": 80,
     "descripcion":"Es una deliciosa tapa italiana tradicional que consiste en rebanadas de pan tostado, generalmente de pan rústico, cubiertas con una mezcla de tomates frescos picados, albahaca, ajo, aceite de oliva virgen extra y sal. Es un plato sencillo pero sabroso, considerado uno de los entrantes más populares de Italia.",
-    "imagen": "imagenes/bruschetta.webp"
+    "imagen": "/imagenes/bruschetta.webp"
     },
         {
           "id": 2,
     "name": "Bruschetta de prosciutto y mozzarella",
     "price": 95,
     "descripcion":"La bruschetta con prosciutto y mozzarella es un aperitivo italiano clásico que combina pan tostado crujiente con una mezcla de queso mozzarella, jamón prosciutto y tomate, realzada con albahaca fresca y aceite de oliva virgen extra. Es una opción elegante y sencilla, ideal para compartir en ocasiones especiales o como entrada en cenas mediterráneas.",
-    "imagen": "imagenes/bruschetta_mozzarella.webp"
+    "imagen": "/imagenes/bruschetta_mozzarella.webp"
     },
        {
           "id": 3,
     "name": "Tabla de quesos italiano",
     "price": 120,
     "descripcion":"Una tabla de quesos italiano es una selección de quesos auténticos provenientes de diferentes regiones de Italia, diseñada para ofrecer una experiencia gastronómica variada y equilibrada.",
-    "imagen": "imagenes/tabla-quesos.webp"
+    "imagen": "/imagenes/tabla-quesos.webp"
     },
        {
           "id": 4,
     "name": "Arancini",
     "price": 90,
     "descripcion":"Los arancini de camarones son una variante del clásico aperitivo italiano, consistente en bolas de arroz rellenas de camarones y fritas hasta obtener un color dorado crujiente por fuera y cremoso por dentro.",
-    "imagen": "imagenes/arancini.webp"
+    "imagen": "/imagenes/arancini.webp"
     },
 
  {
@@ -34,7 +34,7 @@
     "name": "Patatas fritas crujientes de polenta y parmesano",
     "price": 115,
     "descripcion":"La polenta frita es un aperitivo crujiente y delicioso de origen italiano, elaborado con harina de maíz que se cocina, enfría, corta en bastones y se fríe hasta dorar.",
-    "imagen": "imagenes/polenta-fritas.webp"
+    "imagen": "/imagenes/polenta-fritas.webp"
     },
 
      {
@@ -42,7 +42,7 @@
     "name": "Albondigas italianas (polpette)",
     "price": 98,
     "descripcion":"Las polpette son unas albóndigas tradicionales italianas, consideradas un plato característico de la cocina italiana. Son bolas redondeadas elaboradas con una mezcla de carne (como ternera, cerdo, vaca o pescado), verduras, especias, plantas aromáticas, yacimientos de yemas de huevo, harina y pan rallado.",
-    "imagen": "imagenes/polpette.webp"
+    "imagen": "/imagenes/polpette.webp"
     }
 
 ],
@@ -52,42 +52,42 @@
     "name": "Pasta carbonara",
     "price": 150,
     "descripcion":"La pasta carbonara es un clásico y tradicional plato italiano, originario de Roma, conocido por su salsa cremosa elaborada exclusivamente con ingredientes básicos y sin nata.",
-    "imagen": "imagenes/pasta-carbonara.avif"
+    "imagen": "/imagenes/pasta-carbonara.avif"
     },
      {
       "id": 2,
     "name": "penne arrabiata",
     "price": 143,
     "descripcion":"La penne all'arrabbiata es un clásico y popular plato de pasta italiano, originario de la región de Lacio y típico de Roma. Se caracteriza por su salsa de tomate picante. ",
-    "imagen": "imagenes/Penne-arrabbiata.jpg"
+    "imagen": "/imagenes/Penne-arrabbiata.jpg"
     },
      {
       "id": 3,
     "name": "Lasaña alla bolognese",
     "price": 175,
     "descripcion":"La lasagna alla bolognese es un clásico plato italiano que combina capas de pasta, una rica salsa de carne (ragú), salsa bechamel cremosa y queso parmesano. Originaria de la región de Emilia-Romaña, esta receta tradicional requiere tiempo para cocinar a fuego lento el ragú y lograr una textura densa y sabrosa.",
-    "imagen": "imagenes/lasagne-bolognese.webp"
+    "imagen": "/imagenes/lasagne-bolognese.webp"
     },
      {
       "id": 4,
     "name": "Margherita Pizza",
     "price": 200,
     "descripcion":"La Pizza Margarita es una clásica y sencilla pizza napolitana que lleva tomate, mozzarella fresca, albahaca fresca, sal y aceite de oliva.",
-    "imagen": "imagenes/margherita-pizza.jpg"
+    "imagen": "/imagenes/margherita-pizza.jpg"
     },
      {
       "id": 5,
     "name": "Saltimbocca alla romana",
     "price": 165,
     "descripcion":"El Saltimbocca alla Romana es un plato clásico italiano que consiste en finos filetes de ternera cubiertos con jamón serrano (prosciutto crudo) y hojas de salvia, cocinados en una salsa de vino blanco y mantequilla.",
-    "imagen": "imagenes/saltimbocca-romana.jpg"
+    "imagen": "/imagenes/saltimbocca-romana.jpg"
     },
      {
       "id": 6,
     "name": "Salmón al limón y alcaparras",
     "price": 220,
     "descripcion":"es un plato clásico y elegante que consiste en filetes de salmón cocinados y servidos con una salsa de limón y alcaparras. Es conocido por su sabor fresco, ligeramente ácido y salado.",
-    "imagen": "imagenes/salmon-alcaparras.jpg"
+    "imagen": "/imagenes/salmon-alcaparras.jpg"
     }
   ],
   "postres": [
@@ -96,42 +96,42 @@
     "name": "Tiramisu classico",
     "price": 135,
     "descripcion":"El tiramisú clásico es un postre italiano tradicional compuesto por capas de bizcochos de soletilla (savoiardi) empapados en café, alternadas con una crema cremosa hecha de mascarpone, yemas de huevo y azúcar, y finalmente coronado con cacao amargo en polvo.",
-    "imagen": "imagenes/tiramisu.webp"
+    "imagen": "/imagenes/tiramisu.webp"
     },
     {
      "id": 2,
     "name": "Panna cotta",
     "price": 125,
     "descripcion":"La panna cotta, que significa literalmente (nata cocida) en italiano, es un postre típico de la región italiana del Piamonte, conocido por su textura suave, cremosa y ligeramente gelatinosa, similar a la gelatina pero con un sabor más lácteo que el flan.",
-    "imagen": "imagenes/panna-cotta.webp"
+    "imagen": "/imagenes/panna-cotta.webp"
     },
     {
      "id": 3,
     "name": "Zabaglione",
     "price": 148,
     "descripcion":"El zabaglione, también conocido como zabaione o sambayón, es un postre tradicional de la cocina italiana que consiste en una crema hecha con yemas de huevo, azúcar y vino dulce, generalmente vino marsala.",
-    "imagen": "imagenes/zabaglione.webp"
+    "imagen": "/imagenes/zabaglione.webp"
     },
     {
      "id": 4,
     "name": "Torta dell anonna",
     "price": 162,
     "descripcion":"Se trata de una tarta dulce de masa hojaldrada rellena con una crema pastelera aromatizada con vainilla y ralladura de limón, cubierta con piñones tostados y azúcar glas, combinando una textura crujiente con un relleno cremoso y suave.",
-    "imagen": "imagenes/tortadellanonna.webp"
+    "imagen": "/imagenes/tortadellanonna.webp"
     },
     {
      "id": 5,
     "name": "Affogato al cafe",
     "price": 95,
     "descripcion":"El affogato es un postre italiano que combina el contraste de sabores y temperaturas entre un espresso caliente y un helado, generalmente de vainilla, creando una experiencia sensorial única.",
-    "imagen": "imagenes/affogato-cafe.webp"
+    "imagen": "/imagenes/affogato-cafe.webp"
     },
     {
      "id": 6,
     "name": "Peras al vino tinto con helado ",
     "price": 148,
     "descripcion":"Las peras al vino tinto con helado de vainilla son un postre elegante y tradicional que combina la dulzura natural de las peras con el sabor profundo del vino tinto, resultando en un contraste delicioso entre el frío del helado y el calor o la temperatura ambiente de las peras.",
-    "imagen": "imagenes/peras-vino-tinto.webp"
+    "imagen": "/imagenes/peras-vino-tinto.webp"
     }
   ],
   "bebidas": [
@@ -140,42 +140,42 @@
     "name": "Lambrusco",
     "price": 100,
     "descripcion":"El lambrusco es un vino italiano originario de las provincias centrales de Emilia-Romaña, principalmente alrededor de las ciudades de Módena, Parma, Reggio Emilia y Mantua, con una historia que se remonta al Imperio Romano, se elabora principalmente a partir de varias variedades de uvas Lambrusco, como Lambrusco Grasparossa, Maestri, Marani, Montericco, Salamino y Sorbara, y a menudo se mezcla con otras uvas como Ancellotta, Marzemino o Malbo Gentile para aportar color, cuerpo o estructura.",
-    "imagen": "imagenes/lambrusco.webp"
+    "imagen": "/imagenes/lambrusco.webp"
     },
      {
       "id": 2,
     "name": "Aperol spritz",
     "price": 75,
     "descripcion":"El Aperol Spritz es un cóctel italiano refrescante y emblemático del aperitivo veneciano, conocido por su vibrante color naranja y sabor ligeramente amargo y cítrico. La receta auténtica combina prosecco, Aperol y una salpicadura de soda, servida con hielo y una rodaja de naranja.",
-    "imagen": "imagenes/aperol.webp"
+    "imagen": "/imagenes/aperol.webp"
     },
      {
       "id": 3,
     "name": "Negroni",
     "price": 88,
     "descripcion":"El Negroni es un clásico cóctel italiano originado en 1919 en Florencia, creado cuando el conde Camillo Negroni pidió a su barman sustituir la soda de su Americano por ginebra. Este trago icónico combina ginebra, Campari y vermú dulce en partes iguales, destacando por su sabor amargo y equilibrado, ideal como aperitivo. Se sirve en vaso old fashioned con hielo y una guarnición de naranja.",
-    "imagen": "imagenes/negroni.png"
+    "imagen": "/imagenes/negroni.png"
     },
      {
       "id": 4,
     "name": "Espresso italiano",
     "price": 105,
     "descripcion":"El espresso italiano es una forma de preparación de café originada en Italia, caracterizada por su extracción rápida bajo alta presión, lo que produce una bebida concentrada, rica en sabor y con una capa de crema de textura fina.",
-    "imagen": "imagenes/espresso.webp"
+    "imagen": "/imagenes/espresso.webp"
     },
      {
       "id": 5,
     "name": "latte",
     "price": 138,
     "descripcion":"Las polpette son unas albóndigas tradicionales italianas, consideradas un plato característico de la cocina italiana. Son bolas redondeadas elaboradas con una mezcla de carne (como ternera, cerdo, vaca o pescado), verduras, especias, plantas aromáticas, yacimientos de yemas de huevo, harina y pan rallado.",
-    "imagen": "imagenes/latte.webp"
+    "imagen": "/imagenes/latte.webp"
     },
      {
       "id": 6,
     "name": "Limonada con albahaca",
     "price": 86,
     "descripcion":"La limonada con albahaca es una bebida refrescante y aromática que combina el sabor cítrico del limón con el toque herbal y ligeramente dulce de la albahaca, ofreciendo beneficios para la salud como propiedades antioxidantes, antibacterianas y antiinflamatorias.",
-    "imagen": "imagenes/limonada-con-albahaca.webp"
+    "imagen": "/imagenes/limonada-con-albahaca.webp"
     }
   ]
 }
