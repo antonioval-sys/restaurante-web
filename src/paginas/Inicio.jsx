@@ -1,4 +1,4 @@
- import { Link } from "react-router-dom";
+
 
 
  function Inicio(){
@@ -10,7 +10,7 @@ return(
       </div>
       <div className="dis">
         <div className="trattoria">
-          <img src="imagenes/trattoria.jpg" alt="Trattoria"/>
+          <img  alt="Trattoria" src="imagenes/trattoria.jpg"/>
         </div>
         <div className="nosotros-servicio">
           <div className="nosotros">
@@ -23,22 +23,22 @@ return(
             <h2>Nuestros Servicios</h2>
             <ul className="servicios-combinados">
               <li>
-                <a href="banquete.html">
-                  <img src="imagenes/banquete.png" alt="Banquete"/>
+                
+                  <img  alt="Banquete" src="imagenes/banquete.png"/>
                   <span>Banquete</span>
-                </a>
+                
               </li>
               <li>
-                <a href="local">
-                  <img src="imagenes/local.png" alt="En Local"/>
+                
+                  <img  alt="En Local" src="imagenes/local.png"/>
                   <span>Presencial</span>
-                </a>
+                
               </li>
               <li>
-                <a href="llevar">
-                  <img  alt="Para Llevar"src="/imagenes/llevar.png"/>
+                
+                  <img  alt="Para Llevar" src="imagenes/llevar.png"/>
                   <span>Recoger</span>
-                </a>
+               
               </li>
             </ul>
           </div>
@@ -67,7 +67,7 @@ return(
           </ul>
         </div>
         <div className="img-filete">
-          <img src="imagenes/filete.jpg" alt="Filete"/>
+          <img  alt="Filete" src="imagenes/filete.jpg"/>
         </div>
       </div>
     </section>
