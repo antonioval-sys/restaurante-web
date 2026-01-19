@@ -15,7 +15,7 @@
   inline-size: 100%;
   position: relative;
   block-size: 55rem;
-  background: url(imagenes/espagueti.jpg)no-repeat center center;
+  background: url(/restaurante-web/imagenes/espagueti.jpg)no-repeat center center;
   background-size: cover;
   background-position: center;
   padding-block-start: 3rem;

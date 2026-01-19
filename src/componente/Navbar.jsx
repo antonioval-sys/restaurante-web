@@ -38,7 +38,7 @@ function Nav() {
     <nav>
 
       <div className="nav-container">
-        <a href="/inicio" className="logo">Trattoria Moderna</a>
+       <Link to="/inicio" className="logo">Trattoria Moderna</Link>
 
         <button
           className="menu-btn"
