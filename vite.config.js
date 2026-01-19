@@ -2,7 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/restaurante-web/',
   plugins: [react()],
   base: '/restaurante-web/',
 })
