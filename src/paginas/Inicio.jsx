@@ -10,7 +10,7 @@ return(
       </div>
       <div className="dis">
         <div className="trattoria">
-          <img  alt="Trattoria" src="imagenes/trattoria.jpg"/>
+          <img  alt="Trattoria" src="/restaurante-web/imagenes/trattoria.jpg"/>
         </div>
         <div className="nosotros-servicio">
           <div className="nosotros">
@@ -24,19 +24,19 @@ return(
             <ul className="servicios-combinados">
               <li>
                 
-                  <img  alt="Banquete" src="imagenes/banquete.png"/>
+                  <img  alt="Banquete" src="/restaurante-web/imagenes/banquete.png"/>
                   <span>Banquete</span>
                 
               </li>
               <li>
                 
-                  <img  alt="En Local" src="imagenes/local.png"/>
+                  <img  alt="En Local" src="/restaurante-web/imagenes/local.png"/>
                   <span>Presencial</span>
                 
               </li>
               <li>
                 
-                  <img  alt="Para Llevar" src="imagenes/llevar.png"/>
+                  <img  alt="Para Llevar" src="/restaurante-web/imagenes/llevar.png"/>
                   <span>Recoger</span>
                
               </li>
@@ -67,7 +67,7 @@ return(
           </ul>
         </div>
         <div className="img-filete">
-          <img  alt="Filete" src="imagenes/filete.jpg"/>
+          <img  alt="Filete" src="/restaurante-web/imagenes/filete.jpg"/>
         </div>
       </div>
     </section>
