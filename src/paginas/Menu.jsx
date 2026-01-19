@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Link } from "react-router-dom";
+
 import Producto from "../componente/Producto";
 import productos from '../data/productos.json';
 import SeccionProductos from "../componente/Producto";
