@@ -36,7 +36,7 @@ return(
               </li>
               <li>
                 <a href="llevar">
-                  <img src="imagenes/llevar.png" alt="Para Llevar"/>
+                  <img  alt="Para Llevar"src="/imagenes/llevar.png"/>
                   <span>Recoger</span>
                 </a>
               </li>
