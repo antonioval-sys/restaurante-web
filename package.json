@@ -3,20 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
-  "homepage": "https://antonioval-sys.github.io/restaurante-web",
-=======
   "homepage": "https://antonioval-sys.github.io/restaurante-web/",
->>>>>>> 0edbd58716c7b01adebc0dbf6bfbe656e7601c63
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build",       
     "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.2.0",
